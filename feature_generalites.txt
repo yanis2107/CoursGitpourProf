@@ -1,0 +1,9 @@
+Le git init permet d'initialiser le début de l'invité de commande git
+
+le git Status permet de vérifier que tout soit en état de marche dans notre fichier versionné.
+
+Le git add permet de rentrer un dossier dans notre dépot.
+
+git rm --cached permet lui de desindexé un menu
+
+git log lui permet d'avoir un appercu des modifications sur chaque commit.

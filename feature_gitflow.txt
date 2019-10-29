@@ -1,0 +1,20 @@
+git add . pour ajouter l'ensemble des fichiers au dépot.
+
+git add - A pour selectionner plus précisément.
+
+git log master. .origin / master pour voir la différence entre deux branches
+
+git log -nombre pour voir le nombre de commit qu'on a choisi
+
+git log -p -nombre log avec différence pourr chaque commit sur le npùbre défini 
+
+git log --stat pour voir les stars sur les modifs des commits
+
+le suite de commande git blame elle permet de savoir qui a fait une modif avec une commande telle que :
+git blame -L 40,60 readme.md pour voir qui a fait les modif sur ces lignes.
+
+git mv nom_du_premier_ficher rename_du_ficher pour modifier le nom d'un fichier et qu'il soit pris en compte par Git.
+
+Le git rm quant à lui permet de supprimer un  ficher.
+
+git rm --cached permet de ne plus suivre un fichier

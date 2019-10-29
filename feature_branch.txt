@@ -1,0 +1,7 @@
+git commit = La commande git commit sert à enregistrer dans le dépôt les modifications apportées
+
+ git config --global user.name 
+ git config --global user.email ==> Deux commandes qui permette de rentrer notre mail et notre identifiant Git
+
+ git config --local user.name 
+ git config --local user-email == > Les deux commandes sont à utiliser quand on veut ce focus sur un dépot en particulier 
